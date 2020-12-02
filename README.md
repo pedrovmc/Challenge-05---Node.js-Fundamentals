@@ -15,8 +15,7 @@ Gostack 11 Challenge - Node.js Fundamentals (My solution)
 ## Features
 [//]: # (Add the features of your project here:)
 
-- 🎨 **Node JS** - a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
-
+- ⚙️ **Node JS** - a platform built on Chrome's JavaScript runtime for easily building fast and scalable network applications.
 
 ## License
 
